@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseApp</string>
+
+    <string name="enter_color_code">Enter color code</string>
+    <string name="add">Add</string>
+    <string name="get">Get</string>
+
+    <string name="success">Success</string>
+    <string name="error">Error</string>
+</resources>

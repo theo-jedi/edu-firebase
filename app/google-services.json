@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "887551696111",
+    "project_id": "edu-2323",
+    "storage_bucket": "edu-2323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887551696111:android:1ef7c0882cf89adde64f1a",
+        "android_client_info": {
+          "package_name": "com.theost.firebaseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887551696111-h2c5uf5jvfvkt3gcptea3mb44vpjp5gn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theost.firebaseapp",
+            "certificate_hash": "c4f327970e70db7047a9a327195557a38bed6909"
+          }
+        },
+        {
+          "client_id": "887551696111-dlabuen21bhu71qsvhnid33t5s6fc1kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2PwvV54bjToofxxkmVZpXAMcKMVNyFAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887551696111-dlabuen21bhu71qsvhnid33t5s6fc1kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
